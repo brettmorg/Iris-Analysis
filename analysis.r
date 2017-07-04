@@ -18,11 +18,10 @@ summary(iris)
 #  Task 3: Scatter Plot between Sepal.Length and Sepal.Width by species  #
 ##########################################################################
 
+
 ##################################################
 #  Task 4: Histogram of all variables by Species #
 ##################################################
-
-hist(iris)
 
 #####################################################
 #  Task 5: Density Plot of all variables by Species #
